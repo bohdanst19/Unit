@@ -221,7 +221,7 @@ header{
     width: 25%;
     float:left;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     height: 100%;
   }
@@ -341,8 +341,6 @@ header{
        color: #A7A7A7;
        resize: none;
      }
-
-
     }
     .contact-form__btn{
       padding: 8px 78px;

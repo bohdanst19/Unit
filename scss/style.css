@@ -248,7 +248,7 @@ header .container .header-menu button {
   width: 25%;
   float: left;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   height: 100%;
 }
